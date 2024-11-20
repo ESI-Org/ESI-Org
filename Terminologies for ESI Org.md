@@ -10,6 +10,23 @@ This document outlines the detailed terminologies used within the **ESI Org** ec
 
 ---
 
+## **Wallets**
+
+### ESI Org Wallet
+
+**ESI Org Wallet (Admin and Organization Wallet)**
+The Admin and Organization Wallet functions as a centralized asset repository within the ESI Org ecosystem, holding unsold coins, minted tokens, and wrapped assets. This wallet is used to facilitate the minting, distribution, and management of assets in the system.
+
+Key Functions:
+
+Asset Storage: Holds unsold coins, tokens, and wrapped assets minted by the admin.
+Minting and Distribution: The wallet is used for minting coins or assets, and distributing them as needed to user accounts.
+Transaction Management: Handles the transfer of assets within the **ESI Org** ecosystem for testing or real-world use.
+Security Features: **Admin and Organization Wallets** include advanced security measures to protect the assets and transactions within the ecosystem.
+No Direct Refunds: Although this wallet handles assets, it does not process refunds. Refunds are handled by the platform but do not apply to minted tokens or assets.
+
+---
+
 ## **ESI Mainnet and Testnet**
 
 ### **ESI Mainnet**
