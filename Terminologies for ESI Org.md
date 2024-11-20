@@ -100,7 +100,6 @@ ESI Org
 │     │            │
 │     │            ├── EIB EIE EIBE | EIB-01 EIE-01 EIBE-01
 
-
 ## **Wrapped Tokens, Coins, Stablecoins, and Sub-Stablecoins**
 
 Wrapped Tokens, Coins, Stablecoins, and Sub-Stablecoins are digital assets created in the **ESI Testnet** for the purpose of simulating real-world conditions. These assets are not tied to any real-world value and are used exclusively for testing purposes.
